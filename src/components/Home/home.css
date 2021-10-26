@@ -1,0 +1,19 @@
+.home {
+  flex: 4;
+  background-color: aliceblue;
+  text-align: center;
+}
+
+h1 {
+  text-decoration: underline;
+  margin-bottom: 0%;
+  color: #03c9a9;
+}
+
+.headings {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin-left: 60px;
+}
