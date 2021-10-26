@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/geekadminui/static/css/main.2717e9a5.chunk.css",
+    "main.js": "/geekadminui/static/js/main.1fb228ad.chunk.js",
+    "main.js.map": "/geekadminui/static/js/main.1fb228ad.chunk.js.map",
+    "runtime-main.js": "/geekadminui/static/js/runtime-main.45aa8dbc.js",
+    "runtime-main.js.map": "/geekadminui/static/js/runtime-main.45aa8dbc.js.map",
+    "static/js/2.d7043cf4.chunk.js": "/geekadminui/static/js/2.d7043cf4.chunk.js",
+    "static/js/2.d7043cf4.chunk.js.map": "/geekadminui/static/js/2.d7043cf4.chunk.js.map",
+    "static/js/3.2fa078ed.chunk.js": "/geekadminui/static/js/3.2fa078ed.chunk.js",
+    "static/js/3.2fa078ed.chunk.js.map": "/geekadminui/static/js/3.2fa078ed.chunk.js.map",
+    "static/js/4.51f5f95f.chunk.js": "/geekadminui/static/js/4.51f5f95f.chunk.js",
+    "static/js/4.51f5f95f.chunk.js.map": "/geekadminui/static/js/4.51f5f95f.chunk.js.map",
+    "static/js/5.81b5017b.chunk.js": "/geekadminui/static/js/5.81b5017b.chunk.js",
+    "static/js/5.81b5017b.chunk.js.map": "/geekadminui/static/js/5.81b5017b.chunk.js.map",
+    "index.html": "/geekadminui/index.html",
+    "static/css/main.2717e9a5.chunk.css.map": "/geekadminui/static/css/main.2717e9a5.chunk.css.map",
+    "static/js/2.d7043cf4.chunk.js.LICENSE.txt": "/geekadminui/static/js/2.d7043cf4.chunk.js.LICENSE.txt",
+    "static/js/3.2fa078ed.chunk.js.LICENSE.txt": "/geekadminui/static/js/3.2fa078ed.chunk.js.LICENSE.txt",
+    "static/js/4.51f5f95f.chunk.js.LICENSE.txt": "/geekadminui/static/js/4.51f5f95f.chunk.js.LICENSE.txt",
+    "static/js/5.81b5017b.chunk.js.LICENSE.txt": "/geekadminui/static/js/5.81b5017b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45aa8dbc.js",
+    "static/js/2.d7043cf4.chunk.js",
+    "static/css/main.2717e9a5.chunk.css",
+    "static/js/main.1fb228ad.chunk.js"
+  ]
+}
